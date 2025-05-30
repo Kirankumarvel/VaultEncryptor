@@ -68,8 +68,7 @@ qt_material==2.14
 4. Click **"Start Decryption"**
 5. Retrieve your original file
 
-![GUI Screenshot](![image](https://github.com/user-attachments/assets/50dfa266-840e-49f7-a834-454e8f522bbe)
-) 
+![GUI Screenshot](https://github.com/user-attachments/assets/50dfa266-840e-49f7-a834-454e8f522bbe)
 
 ## ⚠️ Security Notes
 - **Passwords cannot be recovered** - Store them securely
