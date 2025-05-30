@@ -121,5 +121,5 @@ FileEncryptor.decrypt_file("output.enc", "decrypted.txt", "securepassword")
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
-Kiran Kumar - Topmate
+Kiran Kumar - [Topmate](https://topmate.io/kirankumar_v)
 Project Link: [https://github.com/Kirankumarvel/VaultEncryptor](https://github.com/Kirankumarvel/VaultEncryptor)
